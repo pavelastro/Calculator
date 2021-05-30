@@ -3,4 +3,4 @@ A simple calculator using HTML CSS and JS
 
 ## Myself
 
-- [My Website](https://daemonstark.ezyro.com)
+- [My Website](daemonstark.ezyro.com)
